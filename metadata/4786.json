@@ -1,0 +1,38 @@
+{
+  "name": "A girls #4786",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/4786.png",
+  "dna": "84a3c7295ee0393b409a62d7a5ba18cb2aea1d8e",
+  "edition": 4786,
+  "date": 1647985198345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

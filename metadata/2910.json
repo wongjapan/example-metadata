@@ -1,0 +1,38 @@
+{
+  "name": "A girls #2910",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/2910.png",
+  "dna": "de8e69c97d971f72e447f89cc71e9262c2b59693",
+  "edition": 2910,
+  "date": 1647985072411,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "black"
+    }
+  ]
+}

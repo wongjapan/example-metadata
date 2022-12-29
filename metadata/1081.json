@@ -1,0 +1,38 @@
+{
+  "name": "A girls #1081",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/1081.png",
+  "dna": "4d22ec0c0ab064775a828117d2fe6eb6668a69ba",
+  "edition": 1081,
+  "date": 1647984951217,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "african hair"
+    }
+  ]
+}

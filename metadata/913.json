@@ -1,0 +1,38 @@
+{
+  "name": "A girls #913",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/913.png",
+  "dna": "b982bf3aa5fbf6ca564b94ea0e1d5ffb40007b4c",
+  "edition": 913,
+  "date": 1647984939498,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

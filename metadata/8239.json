@@ -1,0 +1,38 @@
+{
+  "name": "A girls #8239",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/8239.png",
+  "dna": "e9d50e0de3ede8ccf1dd9dc6b79968051ce58943",
+  "edition": 8239,
+  "date": 1647985426015,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "10"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

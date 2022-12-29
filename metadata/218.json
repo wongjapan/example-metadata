@@ -1,0 +1,38 @@
+{
+  "name": "A girls #218",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/218.png",
+  "dna": "4df180b40e9aca7458e9fd895913a9ad6445f7c7",
+  "edition": 218,
+  "date": 1647984893664,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "red hair"
+    }
+  ]
+}

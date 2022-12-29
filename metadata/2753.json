@@ -1,0 +1,38 @@
+{
+  "name": "A girls #2753",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/2753.png",
+  "dna": "16441e3b487e0751df152587525150893ce566b2",
+  "edition": 2753,
+  "date": 1647985061601,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "black"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "A girls #8351",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/8351.png",
+  "dna": "d309b22be83d4667c8e8ddcb46d9b356024e1c6c",
+  "edition": 8351,
+  "date": 1647985433364,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

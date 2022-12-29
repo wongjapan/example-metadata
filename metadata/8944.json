@@ -1,0 +1,38 @@
+{
+  "name": "A girls #8944",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/8944.png",
+  "dna": "d271ca418d97c0c7bc2f50c4efc21ec58c111992",
+  "edition": 8944,
+  "date": 1647985472198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "long braids"
+    }
+  ]
+}

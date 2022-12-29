@@ -1,0 +1,38 @@
+{
+  "name": "A girls #8092",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/8092.png",
+  "dna": "ca56e6a881001f51569b4ea91bb8fd13549d440b",
+  "edition": 8092,
+  "date": 1647985416417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "red hair"
+    }
+  ]
+}

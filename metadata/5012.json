@@ -1,0 +1,38 @@
+{
+  "name": "A girls #5012",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/5012.png",
+  "dna": "f0de3e115f2c59e798682bb9b62bbc96b5170d75",
+  "edition": 5012,
+  "date": 1647985214195,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "11"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "rabbit"
+    }
+  ]
+}

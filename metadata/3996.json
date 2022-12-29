@@ -1,0 +1,38 @@
+{
+  "name": "A girls #3996",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/3996.png",
+  "dna": "a4b2d8828f35886f02e220eb72f18d6bacf414ed",
+  "edition": 3996,
+  "date": 1647985145166,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "4"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

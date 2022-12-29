@@ -1,0 +1,38 @@
+{
+  "name": "A girls #3132",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/3132.png",
+  "dna": "8d6243a4d602a4924d40da51106859337dd4ac68",
+  "edition": 3132,
+  "date": 1647985087178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "starry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "1"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "A girls #759",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/759.png",
+  "dna": "1fd8108c9f2eba2897cc87ddfa80c280a4a375f2",
+  "edition": 759,
+  "date": 1647984929389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "4"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "long braids"
+    }
+  ]
+}

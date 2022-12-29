@@ -1,0 +1,38 @@
+{
+  "name": "A girls #4414",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/4414.png",
+  "dna": "6fab06a0e68479a7181a8d075ba0aced68da8481",
+  "edition": 4414,
+  "date": 1647985172737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "long braids"
+    }
+  ]
+}

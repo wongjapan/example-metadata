@@ -1,0 +1,38 @@
+{
+  "name": "A girls #5557",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/5557.png",
+  "dna": "27b40a81a9f8ad941ad5bdbaf5c79334a5ce46bf",
+  "edition": 5557,
+  "date": 1647985249496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

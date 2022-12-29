@@ -1,0 +1,38 @@
+{
+  "name": "A girls #3403",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/3403.png",
+  "dna": "7034c1603d874cdd94948491ec17c9eeba4c5d6c",
+  "edition": 3403,
+  "date": 1647985105353,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "7"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "rabbit"
+    }
+  ]
+}

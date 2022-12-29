@@ -1,0 +1,38 @@
+{
+  "name": "A girls #1873",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/1873.png",
+  "dna": "7ba006ec5d3b13070233543da19aea29fdd2bad0",
+  "edition": 1873,
+  "date": 1647985003466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "10"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "rabbit"
+    }
+  ]
+}

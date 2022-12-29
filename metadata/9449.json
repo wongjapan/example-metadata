@@ -1,0 +1,38 @@
+{
+  "name": "A girls #9449",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/9449.png",
+  "dna": "67525ec0d408684572933f1b541a4e2c7a43d973",
+  "edition": 9449,
+  "date": 1647985506345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "10"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

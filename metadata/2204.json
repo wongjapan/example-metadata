@@ -1,0 +1,38 @@
+{
+  "name": "A girls #2204",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/2204.png",
+  "dna": "48b219fd78322730fd5cd1c63e9c10c54e8db0f8",
+  "edition": 2204,
+  "date": 1647985025041,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "8"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "rabbit"
+    }
+  ]
+}

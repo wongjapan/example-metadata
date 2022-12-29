@@ -1,0 +1,38 @@
+{
+  "name": "A girls #4173",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/4173.png",
+  "dna": "eb93c18e5aa419d3afcf08990acd773bfc671b9e",
+  "edition": 4173,
+  "date": 1647985156670,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "4"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "rabbit"
+    }
+  ]
+}

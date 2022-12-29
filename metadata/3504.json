@@ -1,0 +1,38 @@
+{
+  "name": "A girls #3504",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/3504.png",
+  "dna": "4eca7af2f63d71e4fb68ce595665573a990bc1d2",
+  "edition": 3504,
+  "date": 1647985112216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

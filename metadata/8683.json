@@ -1,0 +1,38 @@
+{
+  "name": "A girls #8683",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/8683.png",
+  "dna": "46e41683b95a8560721ba7296e94270ae0d4618b",
+  "edition": 8683,
+  "date": 1647985455324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "11"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

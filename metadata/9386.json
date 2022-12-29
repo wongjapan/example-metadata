@@ -1,0 +1,38 @@
+{
+  "name": "A girls #9386",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/9386.png",
+  "dna": "a187a5d4cd33cd8d616137373eaddd916cb51f9a",
+  "edition": 9386,
+  "date": 1647985501614,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "4"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

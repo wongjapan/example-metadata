@@ -1,0 +1,38 @@
+{
+  "name": "A girls #5412",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/5412.png",
+  "dna": "faea1737f61a97d309a9765bb6bc59179f99752c",
+  "edition": 5412,
+  "date": 1647985240178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "10"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "african hair"
+    }
+  ]
+}

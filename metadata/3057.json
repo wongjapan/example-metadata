@@ -1,0 +1,38 @@
+{
+  "name": "A girls #3057",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/3057.png",
+  "dna": "e60eefaad6b75b75967ff2e353a825e736ca3e90",
+  "edition": 3057,
+  "date": 1647985082186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "starry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red to green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "2"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

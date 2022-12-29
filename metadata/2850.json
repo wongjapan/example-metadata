@@ -1,0 +1,38 @@
+{
+  "name": "A girls #2850",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/2850.png",
+  "dna": "f69c086fd3b28262e76f1b9265909a27d0f97e6c",
+  "edition": 2850,
+  "date": 1647985068361,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

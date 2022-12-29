@@ -1,0 +1,38 @@
+{
+  "name": "A girls #2356",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/2356.png",
+  "dna": "062c64ba3f24ad56548e20374f82332ed62cfc9b",
+  "edition": 2356,
+  "date": 1647985035013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "starry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "11"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "redhat"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "A girls #909",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/909.png",
+  "dna": "de85a43ee3dc542901538938d3b54850664f1002",
+  "edition": 909,
+  "date": 1647984939275,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "starry"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

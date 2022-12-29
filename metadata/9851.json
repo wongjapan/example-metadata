@@ -1,0 +1,38 @@
+{
+  "name": "A girls #9851",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/9851.png",
+  "dna": "0c9987672cda540fe79be4a3b67838e48c0cc03f",
+  "edition": 9851,
+  "date": 1647985533253,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red to green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "drunk"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "long braids"
+    }
+  ]
+}

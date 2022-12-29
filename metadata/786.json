@@ -1,0 +1,38 @@
+{
+  "name": "A girls #786",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/786.png",
+  "dna": "aaf0427edaf73915bcdc707807732bae975415d0",
+  "edition": 786,
+  "date": 1647984931156,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "4"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "african hair"
+    }
+  ]
+}

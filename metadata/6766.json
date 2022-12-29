@@ -1,0 +1,38 @@
+{
+  "name": "A girls #6766",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/6766.png",
+  "dna": "fd2e7ddedc89ada09a54284925820f196ce4a4d4",
+  "edition": 6766,
+  "date": 1647985329400,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "11"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "black"
+    }
+  ]
+}

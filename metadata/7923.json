@@ -1,0 +1,38 @@
+{
+  "name": "A girls #7923",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/7923.png",
+  "dna": "c587358e514674adb4cb259beaf67169f198ad4d",
+  "edition": 7923,
+  "date": 1647985405079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "redhat"
+    }
+  ]
+}

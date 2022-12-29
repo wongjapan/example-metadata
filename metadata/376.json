@@ -1,0 +1,38 @@
+{
+  "name": "A girls #376",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/376.png",
+  "dna": "998b6029865626ef5da8abdf3aa09f83989ec9ac",
+  "edition": 376,
+  "date": 1647984904212,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "A girls #9553",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/9553.png",
+  "dna": "895b44760ee52dc52e3ebba29216970a76bc0a9a",
+  "edition": 9553,
+  "date": 1647985513779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "black"
+    }
+  ]
+}

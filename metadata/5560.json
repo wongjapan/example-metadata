@@ -1,0 +1,38 @@
+{
+  "name": "A girls #5560",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/5560.png",
+  "dna": "1a337488efa5f12b25ee51a72927132cac2f7400",
+  "edition": 5560,
+  "date": 1647985249808,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "4"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "red hair"
+    }
+  ]
+}

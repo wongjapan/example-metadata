@@ -1,0 +1,38 @@
+{
+  "name": "A girls #4839",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/4839.png",
+  "dna": "75296963d264abf3829cc446fe076dcea617f30f",
+  "edition": 4839,
+  "date": 1647985202073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "african hair"
+    }
+  ]
+}

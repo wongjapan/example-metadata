@@ -1,0 +1,38 @@
+{
+  "name": "A girls #4388",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/4388.png",
+  "dna": "38aa87b8831aeda89eb0b29912e76067487f9350",
+  "edition": 4388,
+  "date": 1647985170803,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space5"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "8"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "african hair"
+    }
+  ]
+}

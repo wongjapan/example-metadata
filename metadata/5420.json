@@ -1,0 +1,38 @@
+{
+  "name": "A girls #5420",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/5420.png",
+  "dna": "765b922557140d8c7331adcd154de70b5596cd84",
+  "edition": 5420,
+  "date": 1647985240863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "7"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "saturn"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "black"
+    }
+  ]
+}

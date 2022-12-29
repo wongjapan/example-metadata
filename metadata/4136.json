@@ -1,0 +1,38 @@
+{
+  "name": "A girls #4136",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/4136.png",
+  "dna": "35bc1118553eda5b13dc6bbde8ae73e6105ac372",
+  "edition": 4136,
+  "date": 1647985154407,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "8"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

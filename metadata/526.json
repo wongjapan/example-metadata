@@ -1,0 +1,38 @@
+{
+  "name": "A girls #526",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/526.png",
+  "dna": "8df4f464807a538400f6993984feac620f065bcf",
+  "edition": 526,
+  "date": 1647984914115,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "10"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "4"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "redhat"
+    }
+  ]
+}

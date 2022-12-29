@@ -1,0 +1,38 @@
+{
+  "name": "A girls #3670",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/3670.png",
+  "dna": "f7e7239ad854e86ba17f4f6bf1120ce057f6fd54",
+  "edition": 3670,
+  "date": 1647985123506,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "rainbow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "5"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

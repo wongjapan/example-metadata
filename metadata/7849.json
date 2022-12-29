@@ -1,0 +1,38 @@
+{
+  "name": "A girls #7849",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/7849.png",
+  "dna": "e7800caaaf0eca36b10799972b1c9d528e66ee95",
+  "edition": 7849,
+  "date": 1647985400499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "1"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

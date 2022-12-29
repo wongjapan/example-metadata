@@ -1,0 +1,38 @@
+{
+  "name": "A girls #2385",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/2385.png",
+  "dna": "216ee75b4f9a2d077c29d92540d1347088bff0bc",
+  "edition": 2385,
+  "date": 1647985036854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "10"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "1"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "african hair"
+    }
+  ]
+}

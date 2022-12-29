@@ -1,0 +1,38 @@
+{
+  "name": "A girls #918",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/918.png",
+  "dna": "917da01fb6a3cb135d04118ed16294e08c89d2af",
+  "edition": 918,
+  "date": 1647984939829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "african hair"
+    }
+  ]
+}

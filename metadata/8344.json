@@ -1,0 +1,38 @@
+{
+  "name": "A girls #8344",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/8344.png",
+  "dna": "869f9b2e77ead2c1343647b88b208d68b15607af",
+  "edition": 8344,
+  "date": 1647985432943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "blink"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "peace"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "long braids"
+    }
+  ]
+}

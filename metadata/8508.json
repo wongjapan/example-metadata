@@ -1,0 +1,38 @@
+{
+  "name": "A girls #8508",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/8508.png",
+  "dna": "72bb3c7e6750a635a08e7a5d469888ffb258163a",
+  "edition": 8508,
+  "date": 1647985443800,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "redhat"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "A girls #4293",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/4293.png",
+  "dna": "91e831c578038ba9f8d47757792f74a776be4028",
+  "edition": 4293,
+  "date": 1647985164319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "red to green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "bald"
+    }
+  ]
+}

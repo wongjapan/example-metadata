@@ -1,0 +1,38 @@
+{
+  "name": "A girls #3654",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/3654.png",
+  "dna": "3b3b7e000ccb2a21134b0434aa6b437925330825",
+  "edition": 3654,
+  "date": 1647985122372,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space4"
+    },
+    {
+      "trait_type": "Body",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "9"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "octopus"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "A girls #9417",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/9417.png",
+  "dna": "a731bfdd842fd84b65f84059db3b986fa0069a28",
+  "edition": 9417,
+  "date": 1647985503871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "6"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "7"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "pearl"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "redhat"
+    }
+  ]
+}

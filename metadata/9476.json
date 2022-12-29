@@ -1,0 +1,38 @@
+{
+  "name": "A girls #9476",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/9476.png",
+  "dna": "3f34352b06284b74d0d5defe5cbd7c6c8158a522",
+  "edition": 9476,
+  "date": 1647985508332,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "12"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "red hair"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "A girls #2064",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/2064.png",
+  "dna": "3fc5c232d8b4fe765e4dfb93787cba49f3a088ee",
+  "edition": 2064,
+  "date": 1647985015951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "8"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "rimel"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "btc"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "redhat"
+    }
+  ]
+}

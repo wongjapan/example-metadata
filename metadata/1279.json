@@ -1,0 +1,38 @@
+{
+  "name": "A girls #1279",
+  "description": "",
+  "image": "ipfs://bafybeidwsi2meahovnbvv6j6wnr3moy6vhrjz7ftijpf52ncv6trpjs7mi/1279.png",
+  "dna": "eccadd50de46391a7571711bc6ed95e201ae8eec",
+  "edition": 1279,
+  "date": 1647984964120,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "space1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "11"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "scar"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "yellow"
+    }
+  ]
+}
